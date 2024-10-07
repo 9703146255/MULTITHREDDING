@@ -1,0 +1,41 @@
+========================================================================================================================
+Multithredding Course Content
+========================================================================================================================
+➤ What is Thread?
+➤ How many ways thread object can be created?
+> What is the difference between java program execution vs thread execution
+➤ Thread Life cycle.
+➤ Different thread states
+➤ What is the need for Synchronization ?
+➤ Synchronization in Java
+➤ What is Object Lock?
+> What is Class Loc'
+> Synchronization BA A
+What is interthread communication?
+➤ Difference between Sleep and Wait methods?
+➤ Why wait, notify and notify all are in Object class?
+➤ Yield Method, join method
+> What is the drawback of Thread?
+➤ What is the need for Thread pool in Java ?
+➤ What is the need for Callable interface?
+➤ What are the difference between callable and runnable?
+➤ What are different thread pools in Java and example program using the thread pool?
+Single Thread pool
+Cached Thread pool Fixed Thread pool
+Scheduled Thread pool
+➤ How to implement thread pool?
+> Executor framework?
+➤ How to do multi threading in Java? Practical program on multi threading using executor framework
+➤ What is Feature interface in Java ?
+> What is Volatile keyword in Java ?
+> What is Deadlock and how to avoid it ?
+➤ What is Atomicity in Java ?
+> What is the difference between lock and Synchronization ?
+> What is reentrant lock?
+> What is read write lock?
+> What is count down latch?
+➤ Java 8 changes to executor framework changes
+➤ Countdown latch
+➤ Producer and Consumer example (Blocking queue) implementation using Threads
+Interview Q & A
+=======================================================================================================================================
